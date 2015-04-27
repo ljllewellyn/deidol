@@ -1,0 +1,9 @@
+{
+  "name": "deidol",
+  "title": "DeIdol",
+  "id": "jid1-dAN4ltjB8CHrSw",
+  "description": "De-idolises the PCMR subreddit.",
+  "author": "Lewis Llewellyn",
+  "license": "MPL 2.0",
+  "version": "0.1"
+}
